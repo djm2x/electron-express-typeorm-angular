@@ -7,6 +7,18 @@
     "url": "https://mohamed-mourabit.com",
     "email": "mohamed.mourabit@outlook.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djm2x/electron-express-typeorm-angular.git"
+  },
+  "homepage": "https://github.com/djm2x/electron-express-typeorm-angular#readme",
+  "keywords": [
+    "electron",
+    "express",
+    "typeorm",
+    "angular"
+  ],
+  "license": "Apache-2.0",
   "nodemonConfig": {
     "ignore": [
       "angular/*",
